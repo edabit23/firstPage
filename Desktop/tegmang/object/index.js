@@ -26,3 +26,5 @@ let user = {
   
   };
   user.sayHi(); // John
+
+console.log('hey guys');
